@@ -13,7 +13,7 @@ WHERE LENGTH > 60 AND LENGTH < 75;
 
 SELECT * 
 FROM film
-WHERE rental_rate = 0.99 AND replacement_cost = 12.99 OR replacement_cost = 28.99;
+WHERE rental_rate = 0.99 AND replacement_cost IN (12.99, 28.99);
 
 -- What is the value in the last_name column of the customer whose value is 'Mary' in the first_name column in the customer table?
 
