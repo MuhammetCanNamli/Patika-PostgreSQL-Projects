@@ -55,3 +55,13 @@ Perform the following query scenarios using the dvdrental sample database.
    - List the 5 films (6,7,8,9,10) that are the second shortest in length (6,7,8,9,10) in the film table and whose film title ends with the character 'n'.
    - Sort the first 4 data in descending order according to the last_name column in the customer table, provided that store_id is 1.
 ```
+
+### Project 6
+```
+Perform the following query scenarios using the dvdrental sample database.
+
+   - What is the average of the values in the rental_rate column in the film table?
+   - How many of the films in the film table start with the character 'C'?
+   - Among the films in the film table, how many minutes is the longest film with a rental_rate value equal to 0.99?
+   - How many different replacement_cost values are there for the films in the film table that are longer than 150 minutes?
+```
