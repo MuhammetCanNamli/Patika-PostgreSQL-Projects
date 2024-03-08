@@ -1,14 +1,14 @@
--- List the different values in the replacement_cost column in the movie table.
+-- List the different values in the replacement_cost column in the film table.
 
 SELECT DISTINCT replacement_cost
 FROM film;
 
--- How many different data are there in the replacement_cost column in the movie table?
+-- How many different data are there in the replacement_cost column in the film table?
 
 SELECT COUNT(DISTINCT replacement_cost)
 FROM film;
 
--- How many of the movie titles in the movie table start with the character T and also have a rating equal to 'G'?
+-- How many of the film titles in the film table start with the character T and also have a rating equal to 'G'?
 
 SELECT COUNT(*)
 FROM film
