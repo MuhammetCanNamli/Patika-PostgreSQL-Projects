@@ -65,3 +65,13 @@ Perform the following query scenarios using the dvdrental sample database.
    - Among the films in the film table, how many minutes is the longest film with a rental_rate value equal to 0.99?
    - How many different replacement_cost values are there for the films in the film table that are longer than 150 minutes?
 ```
+
+### Project 7
+```
+Perform the following query scenarios using the dvdrental sample database.
+
+   - Group the films in the film table according to their rating values.
+   - When we group the films in the film table according to the replacement_cost column, list the replacement_cost value and the corresponding number of films if the number of films is more than 50.
+   - What are the customer numbers corresponding to the store_id values in the customer table?
+   - After grouping the city data in the city table according to the country_id column, share the country_id information and the number of cities that contain the highest number of cities.
+```
