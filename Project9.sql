@@ -1,9 +1,9 @@
 -- Write the INNER JOIN query where we can see the city and country names in the city table and the country table together.
 
-SELECT city.city, country.country
-FROM city
-INNER JOIN country 
-ON country.country_id = city.country_id;
+SELECT city, country 
+FROM country
+INNER JOIN city 
+ON country.country_id = city.city_id;
 
 -- Write the INNER JOIN query in which we can see the customer table, the payment_id in the payment table, and the first_name and last_name in the customer table together.
 
