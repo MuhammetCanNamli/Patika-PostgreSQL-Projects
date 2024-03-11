@@ -83,3 +83,12 @@ Perform the following query scenarios using the dvdrental sample database.
   - Let's perform 5 UPDATE operations that will update the other columns according to each column.
   - Let's perform 5 DELETE operations that will delete the relevant row for each column.
 ```
+
+### Project 9
+```
+  Perform the following query scenarios using the dvdrental sample database.
+
+  - Write the INNER JOIN query where we can see the city and country names in the city table and the country table together.
+  - Write the INNER JOIN query in which we can see the customer table, the payment_id in the payment table, and the first_name and last_name in the customer table together.
+  - Write the INNER JOIN query in which we can see the customer table, the rental_id in the rental table, and the first_name and last_name in the customer table together.
+```
