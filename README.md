@@ -92,3 +92,12 @@ Perform the following query scenarios using the dvdrental sample database.
   - Write the INNER JOIN query in which we can see the customer table, the payment_id in the payment table, and the first_name and last_name in the customer table together.
   - Write the INNER JOIN query in which we can see the customer table, the rental_id in the rental table, and the first_name and last_name in the customer table together.
 ```
+
+### Project 10
+```
+  Perform the following query scenarios using the dvdrental sample database.
+
+  - Write the LEFT JOIN query in which we can see the city and country names in the city table and the country table together.
+  - Write the RIGHT JOIN query in which we can see the customer table, the payment_id in the payment table, and the first_name and last_name in the customer table together.
+  - Write a FULL JOIN query in which we can see the customer table, the rental_id in the rental table, and the first_name and last_name in the customer table together.
+```
