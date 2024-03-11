@@ -75,3 +75,11 @@ Perform the following query scenarios using the dvdrental sample database.
    - What are the customer numbers corresponding to the store_id values in the customer table?
    - After grouping the city data in the city table according to the country_id column, share the country_id information and the number of cities that contain the highest number of cities.
 ```
+
+### Project 8
+```
+  - Let's create a table named employee in your test database with column information id(INTEGER), name VARCHAR(50), birthday DATE, email VARCHAR(100).
+  - Let's add 50 data to the employee table we created using the 'Mockaroo' service.
+  - Let's perform 5 UPDATE operations that will update the other columns according to each column.
+  - Let's perform 5 DELETE operations that will delete the relevant row for each column.
+```
