@@ -101,3 +101,13 @@ Perform the following query scenarios using the dvdrental sample database.
   - Write the RIGHT JOIN query in which we can see the customer table, the payment_id in the payment table, and the first_name and last_name in the customer table together.
   - Write a FULL JOIN query in which we can see the customer table, the rental_id in the rental table, and the first_name and last_name in the customer table together.
 ```
+
+### Project 11
+```
+  Perform the following query scenarios using the dvdrental sample database.
+
+  - Let's sort all the data for the first_name columns in the actor and customer tables.
+  - Let's list the intersecting data for the first_name columns in the actor and customer tables.
+  - For the first_name columns in the actor and customer tables, let's list the data that is in the first table but not in the second table.
+  - Let's make the first 3 queries for repeating data.
+```
