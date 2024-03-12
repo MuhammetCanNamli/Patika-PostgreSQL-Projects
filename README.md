@@ -6,6 +6,8 @@ Projects of PostgreSQL
 
 SQL lessons projects in dvdrental database at Patika Academy
 
+<a href="https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip">dvdrental Database Download Link</a>
+
 ### Project 1
 ```
 Perform the following query scenarios using the dvdrental sample database.
