@@ -111,3 +111,13 @@ Perform the following query scenarios using the dvdrental sample database.
   - For the first_name columns in the actor and customer tables, let's list the data that is in the first table but not in the second table.
   - Let's make the first 3 queries for repeating data.
 ```
+
+### Project 12
+```
+  Perform the following query scenarios using the dvdrental sample database.
+
+  - In the film table, the film length is shown in the length column. How many films are longer than the average film length?
+  - How many films have the highest rental_rate in the film table?
+  - In the film table, list the films with the lowest rental_rate and lowest replacement_cost values.
+  - List the customers who made the most purchases in the payment table.
+```
